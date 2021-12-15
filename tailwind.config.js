@@ -9,9 +9,6 @@ module.exports = {
         UbuntuMono: ["Ubuntu Mono", "monospace"],
         RobotoMono: ["Roboto Mono", "monospace"],
       },
-      animation: {
-        "bounce-slow": "bounce 1s infinite",
-      },
     },
   },
   plugins: [],
