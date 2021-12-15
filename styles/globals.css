@@ -7,28 +7,10 @@
 * {
   cursor: none;
 }
-/* .app-cursor {
-  z-index: 1000;
-  border-radius: 50%;
-  width: 80px;
-  height: 80px;
-  border: 1px solid #000;
-  pointer-events: none;
-  transform: translate3d(0, 0, 0);
-  position: fixed;
-} */
 
 ::-webkit-scrollbar {
   width: 0px;
 }
-/* Optional: show position indicator in red */
-/* ::-webkit-scrollbar-thumb {
-  background: #e94100;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
-  border-top-right-radius: 25px;
-  border-top-left-radius: 25px;
-} */
 
 .app-cursor {
   position: fixed;
@@ -38,9 +20,9 @@
   height: 60px;
   border: 3px solid #ea580c;
   border-radius: 100%;
-  transform: translate(-50%, -50%);
-  -webkit-transition-duration: 100ms;
-  transition-duration: 100ms;
+  /* transform: translate(-50%, -50%); */
+  /* -webkit-transition-duration: 100ms;
+  transition-duration: 100ms; */
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
   will-change: width, height, transform, border;

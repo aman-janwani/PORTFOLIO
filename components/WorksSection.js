@@ -12,7 +12,7 @@ const WorksSection = () => {
         </h1>
       </div>
       <div className="bg-amber-400 m-5 p-5 rounded-3xl">
-        <div className="p-5 md:flex cursor-pointer hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
+        <div className="p-5 md:flex hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
           <div className="">
             <Image
               src={
@@ -51,7 +51,7 @@ const WorksSection = () => {
             </div>
           </div>
         </div>
-        <div className="p-5 md:flex cursor-pointer hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
+        <div className="p-5 md:flex hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
           <div className="">
             <Image
               src={
@@ -90,7 +90,7 @@ const WorksSection = () => {
             </div>
           </div>
         </div>
-        <div className="p-5 md:flex cursor-pointer hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
+        <div className="p-5 md:flex hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
           <div className="">
             <Image
               src={
@@ -129,7 +129,7 @@ const WorksSection = () => {
             </div>
           </div>
         </div>
-        <div className="p-5 md:flex cursor-pointer hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
+        <div className="p-5 md:flex hover:shadow-2xl active:scale-150 transition duration-700 rounded-2xl">
           <div className="">
             <Image
               src={

@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 const Navbar = () => {
   return (
     <div className="flex justify-center w-full mb-8 sticky top-0 z-50 backdrop-blur-md shadow-sm">
-      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl cursor-pointer hover:underline underline-offset-8 text-orange-500 uppercase">
+      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl hover:underline underline-offset-8 text-orange-500 uppercase">
         <Link
           activeClass="active"
           to="herosection"
@@ -17,7 +17,7 @@ const Navbar = () => {
           Home
         </Link>
       </h1>
-      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl cursor-pointer hover:underline underline-offset-8 text-orange-500 uppercase">
+      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl hover:underline underline-offset-8 text-orange-500 uppercase">
         <Link
           activeClass="active"
           to="aboutsection"
@@ -29,7 +29,7 @@ const Navbar = () => {
           About
         </Link>
       </h1>
-      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl cursor-pointer hover:underline underline-offset-8 text-orange-500 uppercase">
+      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl hover:underline underline-offset-8 text-orange-500 uppercase">
         <Link
           activeClass="active"
           to="skillssection"
@@ -41,7 +41,7 @@ const Navbar = () => {
           Skills
         </Link>
       </h1>
-      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl cursor-pointer hover:underline underline-offset-8 text-orange-500 uppercase">
+      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl hover:underline underline-offset-8 text-orange-500 uppercase">
         <Link
           activeClass="active"
           to="workssection"
@@ -53,7 +53,7 @@ const Navbar = () => {
           Works
         </Link>
       </h1>
-      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl cursor-pointer hover:underline underline-offset-8 text-orange-500 uppercase">
+      <h1 className="m-2 hover:animate-bounce sm:m-6 font-UbuntuMono text-lg sm:text-xl xl:text-2xl hover:underline underline-offset-8 text-orange-500 uppercase">
         <Link
           activeClass="active"
           to="contactsection"
