@@ -11,7 +11,7 @@ const CustomCursor = () => {
       cursorRef.current.style.transform = `translate3d(${mouseX}px, ${mouseY}px, 0)`;
     });
   }, []);
-  return <div className="app-cursor" ref={cursorRef} />;
+  return <div className="app-cursor hidden md:block" ref={cursorRef} />;
 };
 
 export default CustomCursor;
