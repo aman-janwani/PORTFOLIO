@@ -17,6 +17,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -26,6 +27,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -35,6 +37,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -44,6 +47,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -53,6 +57,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -62,6 +67,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
         <div className="hover:animate-bounce">
@@ -71,6 +77,7 @@ const SkillsSection = () => {
             }
             height={100}
             width={100}
+            alt="skill"
           />
         </div>
       </div>

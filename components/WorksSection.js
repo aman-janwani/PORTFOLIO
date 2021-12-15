@@ -21,6 +21,7 @@ const WorksSection = () => {
               height={200}
               width={300}
               className="rounded-2xl"
+              alt="work"
             />
           </div>
           <div className="mt-5 ml-3 md:mt-0 md:ml-32">
@@ -29,7 +30,7 @@ const WorksSection = () => {
             </h1>
             <p className="uppercase font-UbuntuMono font-semibold mt-6 text-lg w-[300px] md:w-[600px] text-orange-900">
               This is a clone of Airbnb website. It is a Multi page application.
-              It is developed using Next.js & tailwind css. i have also added
+              It is developed using Next.js and tailwind css. i have also added
               some features like login, signup, Stripe checkout and few more. I
               have used mapbox api to show the map.
             </p>
@@ -60,6 +61,7 @@ const WorksSection = () => {
               height={200}
               width={300}
               className="rounded-2xl"
+              alt="work"
             />
           </div>
           <div className="mt-5 ml-3 md:mt-0 md:ml-32">
@@ -68,9 +70,9 @@ const WorksSection = () => {
             </h1>
             <p className="uppercase font-UbuntuMono font-semibold mt-6 text-lg w-[300px] md:w-[600px] text-orange-900">
               This is a clone of Amazon website. It is a Multi page application.
-              It is developed using Next.js & tailwind css. This also have some
-              features like login, signup, Stripe checkout and few more. i have
-              used firebase to store the data.
+              It is developed using Next.js and tailwind css. This also have
+              some features like login, signup, Stripe checkout and few more. i
+              have used firebase to store the data.
             </p>
             <div className="flex space-x-3">
               <a
@@ -99,6 +101,7 @@ const WorksSection = () => {
               height={200}
               width={300}
               className="rounded-2xl"
+              alt="work"
             />
           </div>
           <div className="mt-5 ml-3 md:mt-0 md:ml-32">
@@ -107,7 +110,7 @@ const WorksSection = () => {
             </h1>
             <p className="uppercase font-UbuntuMono font-semibold mt-6 text-lg w-[300px] md:w-[600px] text-orange-900">
               This is a clone of Facebook website. It is a single page
-              application. It is developed using Next.js & tailwind css. This
+              application. It is developed using Next.js and tailwind css. This
               also have some features like login, signup. i have used firebase
               to store the data. you can also post any image on this.
             </p>
@@ -138,6 +141,7 @@ const WorksSection = () => {
               height={200}
               width={300}
               className="rounded-2xl"
+              alt="work"
             />
           </div>
           <div className="mt-5 ml-3 md:mt-0 md:ml-32">
@@ -146,7 +150,7 @@ const WorksSection = () => {
             </h1>
             <p className="uppercase font-UbuntuMono font-semibold mt-6 text-lg w-[300px] md:w-[600px] text-orange-900">
               This is a weather app. It is a single page application. It is
-              developed using Html & Javascript. it shows the weather of any
+              developed using Html and Javascript. it shows the weather of any
               city.
             </p>
             <div className="flex space-x-3">

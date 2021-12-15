@@ -20,6 +20,7 @@ const HeroSection = () => {
           }
           height={250}
           width={250}
+          alt="profilepic"
         />
       </div>
       <div className="sm:hidden bg-orange-500 w-[400px] h-[350px] rounded-tl-[1000px] rounded-tr-[200px] rounded-bl-[500px] rounded-br-[200px] p-6 mr-0">
@@ -29,6 +30,7 @@ const HeroSection = () => {
           }
           height={180}
           width={180}
+          alt="profilepic"
         />
       </div>
     </div>
