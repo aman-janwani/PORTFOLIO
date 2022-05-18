@@ -43,7 +43,7 @@ const WorksSection = () => {
                 Github
               </a>
               <a
-                href="https://airbnb-clone-lac.vercel.app/"
+                href="https://amanairbnb-clone-lac.vercel.app"
                 className="flex p-2 md:p-5 bg-transparent hover:bg-orange-500 border-2 border-orange-500 w-44 h-12 items-center justify-center text-lg text-orange-900 hover:text-white rounded-2xl mt-5 "
               >
                 <AiOutlineLink className="mr-2" />
